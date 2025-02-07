@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mahdin-hc
+- 👋 Hi, I’m @IHEfty
 - 👀 I’m interested in cli-tools nowadays 
-- 😄 Pronouns: Mahdin Hasan
+- 😄 Pronouns: Ismail Hossen Efty
 - 🌀 Links: 
-     [twitter/x](https://x.com/mahdin_hc)
+     [twitter/x](https://x.com/mjmxmdiy)
